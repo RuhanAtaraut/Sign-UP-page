@@ -1,0 +1,38 @@
+.signupcontainer{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-image:url('background.jpg');
+    flex-direction: column;
+
+}
+.submit{
+    display: flex;
+    justify-content: center;
+}
+.left{
+    font-size: 20px;
+    font-weight: 400;
+    padding-right: 50px;
+}
+.right{
+    font-size: 20px;
+    font-weight: 400;
+    padding-right: 50px;
+}
+h1{
+    text-align: center;
+    color: rgb(22, 21, 21);
+    font-size: 40px;
+}
+
+.row{
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    justify-content: space-between;
+}
